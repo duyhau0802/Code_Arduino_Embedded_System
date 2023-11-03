@@ -1,6 +1,6 @@
-// Duyệt 10led sử dụng uno mega
+// Duyệt 10led sử dụng Arduino MEga
 
-// int ledPins[] = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11}; Trên này sử dụng Uno MEga 2600, có nhiều chân xung nên thích dùng nhiêu dùng
+// int ledPins[] = {2, 3, 4, 5, 6, 7, 8, 9, 10, 11}; Trên này sử dụng Arduino MEga 2600, có nhiều chân xung nên thích dùng nhiêu dùng
 // arduino bình thường trên lớp chỉ có 6 chân xung, nên dùng 2 đèn điều khiển 1 chân
 // Nên dùng 10 đèn cùng 1 loại led màu đỏ, vì điện trở nó phù hợp
 
